@@ -79,13 +79,6 @@ Closed gate → ~135–144°
 
 Boolean flag gateOpen prevents repeated triggers
 
-📂 Project Structure
-AutomaticRailwayGate/
-│
-├── arduino_code/      # Main Arduino sketch
-├── circuit_diagram/   # Wiring reference (optional)
-└── README.md
-🎯 Learning Outcomes
 
 This project demonstrates:
 
